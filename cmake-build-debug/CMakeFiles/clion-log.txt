@@ -1,0 +1,65 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\College\5th Semester All\CSC 2623 Distributed and Parallel Computing\Individual Project\Sample Code\WebServer-Log-Analysis-Assigement-master\WebServer-Log-Analysis-Assigement-master"
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+CMake Warning in E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_e6dde.dir/
+
+  has 249 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/gcc.exe
+CMake Warning in E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_f07f1.dir/
+
+  has 249 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe cmTC_f07f1/fast && C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f07f1.dir\build.make CMakeFiles/cmTC_f07f1.dir/build
+    mingw32-make.exe[1]: Entering directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+    CMakeFiles\cmTC_f07f1.dir\build.make:76: CMakeFiles/cmTC_f07f1.dir/progress.make: No such file or directory
+    mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles/cmTC_f07f1.dir/progress.make'.  Stop.
+    mingw32-make.exe[1]: Leaving directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:139: cmTC_f07f1/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeError.log".

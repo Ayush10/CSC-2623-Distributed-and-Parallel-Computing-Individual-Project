@@ -1,0 +1,76 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px;
+}
+div.background{
+    background: url("back.jpg") repeat;
+    opacity: 0.9;
+}
+.header{
+    color: white;
+    font-size: 40px;
+    padding-top: 20px;
+    text-align: center;
+    height: 80px;
+    background-color: rgb(32, 32, 32);
+}
+.textbold{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+/*a{*/
+/*    background-color: white;*/
+/*    text-decoration: none;*/
+/*    width: 20px;*/
+/*    padding: 5px 5px;*/
+/*    color: black;*/
+/*    border-radius: 10%;*/
+/*    */
+/*}*/
+/*a:hover{*/
+/*    background-color: rgb(36, 129, 78);*/
+/*    text-decoration: none;*/
+/*    width: 20px;*/
+/*    padding: 7px 7px;*/
+/*    color: black;*/
+/*    border-radius: 10%;*/
+/*}*/
+
+p {
+
+    margin: 2em 2em 2em 2em;
+    padding: 1em 1.5em;
+}
+
+a {
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 200px;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+a:active {
+    background-color: black;
+}
+
+/*a:visited {*/
+/*    background-color: #ccc;*/
+/*}*/
+
+footer{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    height: 80px;
+    opacity: 75%;
+    background-color: rgb(32, 32, 32);
+}

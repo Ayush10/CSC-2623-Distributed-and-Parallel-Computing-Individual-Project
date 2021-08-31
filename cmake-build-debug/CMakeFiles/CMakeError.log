@@ -1,0 +1,25 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe cmTC_e6dde/fast && C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_e6dde.dir\build.make CMakeFiles/cmTC_e6dde.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles\cmTC_e6dde.dir\build.make:76: CMakeFiles/cmTC_e6dde.dir/progress.make: No such file or directory
+mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles/cmTC_e6dde.dir/progress.make'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:139: cmTC_e6dde/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe cmTC_f07f1/fast && C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f07f1.dir\build.make CMakeFiles/cmTC_f07f1.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles\cmTC_f07f1.dir\build.make:76: CMakeFiles/cmTC_f07f1.dir/progress.make: No such file or directory
+mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles/cmTC_f07f1.dir/progress.make'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'E:/College/5th Semester All/CSC 2623 Distributed and Parallel Computing/Individual Project/Sample Code/WebServer-Log-Analysis-Assigement-master/WebServer-Log-Analysis-Assigement-master/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:139: cmTC_f07f1/fast] Error 2
+
+
+
